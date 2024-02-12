@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zhuanya28
-- 👀 I’m interested in Digital Art, Web Development, UX/UI Design, Music and Beer. 
-- 🌱 I’m currently learning whatever is needed to become a Full-Stack Web Developer.
-- 💞️ I’m looking to collaborate on various digital design projects.
-- 📫 How to reach me: telegram @zhuanya14
+- 👋 hi, I’m @zhuanya28
+- 👀 i’m interested in Digital Art, Front-end Development and UX/UI Design.
+- 🌱 right now I am just looking for opportunities to create cool stuff and get paid for it
+- 💞️ i’m looking to collaborate on various digital design projects.
+- 📫 how to reach me: telegram @zhuanya14
 
 <!---
 zhuanya28/zhuanya28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
